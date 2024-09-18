@@ -1,0 +1,38 @@
+first-child
+last-child
+nth-child()
+
+
+
+
+
+font-family
+		sans-serif
+		serif
+
+font-size
+px,pt,em,rem
+
+font-weight
+300-900
+
+color
+nevy blue:#0F2656
+sky blue:#008AFF
+
+text-transform
+line-height
+letter-spacing
+word-spacing
+
+{box-shadow
+gradient
+noise tex
+border redious}-- youtube a class deoya ase,practice korte hobe 
+
+
+
+
+
+
+font-family: "Playfair Display", serif;
